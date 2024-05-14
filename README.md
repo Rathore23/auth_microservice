@@ -16,10 +16,10 @@ functionality, including OTP-based authentication, password reset, and account u
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/Rathore23/auth_microservice.git
 ```
 
-2. Create a `.env` file and set environment variables:
+2. Create a `.env` file and set environment variables like .env.example:
 
 ```
 python3 -m venv virtualenv
