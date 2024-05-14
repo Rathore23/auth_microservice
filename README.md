@@ -58,3 +58,9 @@ python manage.py createsuperuser
 ```
 
 Access the project at: http://127.0.0.1:8000/admin/
+
+
+## API Documentation
+
+For detailed documentation of the APIs, please refer to the [Postman collection](https://documenter.getpostman.com/view/20555319/2sA3JQ3ygc).
+
